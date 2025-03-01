@@ -44,10 +44,15 @@
 ---
 
 ### 📊 **GitHub Stats**
-<p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=officialsummit&show_icons=true&locale=en&layout=compact&theme=radical" alt="officialsummit" />
-</p>
+
+<img src="https://raw.githubusercontent.com/officialsummit/officialsummit/output/snake.svg" alt="Snake animation" />
+
+###
+
+
+
+
 
 ---
 

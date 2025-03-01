@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sumit!</h1>
+   <p align="center">
+     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmdhMTlwNjhtZ2tjMGVuazB3N2cyeDV4N2k4eGJ1ZTNvdnQ0czA2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MeJgB3yMMwIaHmKD4z/giphy.gif" alt="officialsummit" width="300" height="100"/>
+   </p>
+
+<h1 align="center">👋, I'm Sumit!</h1>
 <h3 align="center">Part-time manual and full-time automation-obsessed QA Engineer who turns coffee into test cases and chaos into order. I hold a Master’s degree in Applied Technologies from Unitec, which doesn't mean I’ve mastered the art of how software behave honestly. However, I try to learn with each day and I live by the motto: “If it’s not tested, it’s broken.” With a toolbox full of Selenium (Java), Cypress (JavaScript), Postman, and Jenkins, I automate the boring testable stuff, so you don’t have to.</h3>
 
 ---
@@ -42,16 +46,12 @@
 </p>
 
 ---
-
 ### 📊 **GitHub Stats**
+<p align="center">
 
-
-<img src="https://raw.githubusercontent.com/officialsummit/officialsummit/output/snake.svg" alt="Snake animation" />
-
-###
-
-
-
+  
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=officialsummit&show_icons=true&locale=en&layout=compact&theme=radical" alt="officialsummit" />
+</p>
 
 
 ---
